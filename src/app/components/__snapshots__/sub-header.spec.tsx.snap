@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubHeader should match snapshot 1`] = `
+<DocumentFragment>
+  <h2
+    class="text-xl my-3 font-bold"
+  >
+    Hello world
+  </h2>
+</DocumentFragment>
+`;

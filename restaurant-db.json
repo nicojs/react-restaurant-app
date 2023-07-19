@@ -1,0 +1,27 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "occupants": 4,
+      "date": "2023-07-20",
+      "timeslot": "19:00",
+      "preferWindowSeat": true
+    },
+    {
+      "id": 2,
+      "name": "Han Solo",
+      "occupants": 2,
+      "date": "2023-07-30",
+      "timeslot": "20:00",
+      "preferWindowSeat": false
+    },
+    {
+      "name": "Nico",
+      "email": "james.bond@mi6.co.uk",
+      "date": "2023-07-18",
+      "timeslot": "19:00",
+      "id": 3
+    }
+  ]
+}

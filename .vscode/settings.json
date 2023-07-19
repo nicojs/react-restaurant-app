@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "timeslot",
+        "Timeslot",
+        "timeslots"
+    ],
+    "eslint.rules.customizations": [{ "rule": "*", "severity": "warn" }],
+}
